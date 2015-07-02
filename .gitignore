@@ -2,5 +2,5 @@
 [Oo]bj/
 [Bb]uild
 [Ll]ibrary/
-!*.*.meta
+.meta
 sysinfo.txt
